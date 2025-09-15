@@ -18,7 +18,7 @@ Professional software developer with expertise in modern web technologies and cl
 ### 🌐 Frontend Development
 
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" style="margin:0 20px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" style="margin:0 20px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" style="margin:0 20px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" style="margin:0 20px;"/>
@@ -68,27 +68,7 @@ Professional software developer with expertise in modern web technologies and cl
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="Apache" style="margin:0 20px;"/>
 </p>
 
-### 🛠️ Development Tools
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" style="margin:0 20px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" style="margin:0 20px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="GitLab" style="margin:0 20px;"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="Postman" style="margin:0 20px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" style="margin:0 20px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" style="margin:0 20px;"/>
-</p>
-
-### 🔧 Additional Technologies
-
-* **Microservices** – Distributed systems with API Gateway
-* **GraphQL** – API development
-* **Next.js** – Full-stack React Framework
-* **FFmpeg** – Media processing for video platforms
-* **Kafka & RabbitMQ** – Event-driven architecture
-
 </div>
-
 ## 🏆 GitHub Achievements & Stats
 
 <div align="center">
