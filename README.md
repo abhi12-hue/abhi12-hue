@@ -13,73 +13,92 @@ Professional software developer with expertise in modern web technologies and cl
 
 ---
 
-## Technical Skills
+## Technical Expertise
+
+<table>
+<tr>
+<td width="50%">
 
 ### Frontend Development
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML5"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS3"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="TypeScript"  />
+</div>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="React"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="45" alt="Redux"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="45" alt="Tailwind CSS"  />
 </div>
 
 ### Backend Development
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="socketio logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="Node.js"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="45" alt="Express.js"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="45" alt="Socket.io"  />
 </div>
 
 ### Programming Languages
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" alt="C"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="C++"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="TypeScript"  />
 </div>
 
-### Databases
+</td>
+<td width="50%">
+
+### Databases & Storage
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" alt="PostgreSQL"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" alt="MongoDB"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="45" alt="Redis"  />
 </div>
 
 ### DevOps & Infrastructure
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache kafka logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="Docker"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="45" alt="Kubernetes"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="45" alt="Apache Kafka"  />
 </div>
 
-### Tools & Testing
+### Development Tools
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="postman logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub"  />
+  <img width="8" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="45" alt="Postman"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="VS Code"  />
 </div>
+
+### Additional Technologies
+- **WebRTC** - Real-time communication
+- **WebSockets** - Live data streaming
+- **Prisma** - Database ORM
+- **REST APIs** - Service architecture
+- **Microservices** - Distributed systems
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -117,11 +136,140 @@ Professional software developer with expertise in modern web technologies and cl
 
 ## Featured Projects
 
-### Recent Work
-- **Real-time Communication Platform** - WebSocket implementation with Node.js and React
-- **Microservices Architecture** - Containerized services with Docker and Kubernetes orchestration  
-- **E-commerce Solution** - Full-stack application using Prisma ORM and PostgreSQL
-- **DevOps Pipeline** - Automated CI/CD with containerization and monitoring
+<table>
+<tr>
+<td width="50%">
+
+### Real-Time Chat Application
+<img src="https://via.placeholder.com/400x200/0d1117/58a6ff?text=Real-Time+Chat+App" alt="Real-Time Chat Application" style="width: 100%; border-radius: 10px;"/>
+
+**Technologies:** React, Node.js, Socket.io, MongoDB, JWT Authentication
+
+A comprehensive real-time messaging platform featuring instant messaging, file sharing, user authentication, and room-based conversations. Implements WebSocket connections for seamless real-time communication.
+
+**Key Features:**
+- Real-time messaging with Socket.io
+- User authentication and authorization
+- File upload and sharing capabilities
+- Room-based chat functionality
+- Responsive design with modern UI
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/abhi12-hue/your-chat-repo)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=flat-square&logo=vercel)](https://your-chat-app.vercel.app)
+
+</td>
+<td width="50%">
+
+### E-Commerce Platform
+<img src="https://via.placeholder.com/400x200/0d1117/f85149?text=E-Commerce+Platform" alt="E-Commerce Platform" style="width: 100%; border-radius: 10px;"/>
+
+**Technologies:** React, TypeScript, Node.js, Express, Prisma, PostgreSQL, Stripe
+
+Full-stack e-commerce solution with advanced features including product catalog, shopping cart, payment integration, and admin dashboard. Built with modern technologies and best practices.
+
+**Key Features:**
+- Product catalog with search and filtering
+- Shopping cart and checkout system
+- Stripe payment integration
+- Admin dashboard for inventory management
+- Order tracking and user profiles
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/abhi12-hue/your-ecommerce-repo)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=flat-square&logo=vercel)](https://your-ecommerce.vercel.app)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### Microservices Architecture
+<img src="https://via.placeholder.com/400x200/0d1117/79c0ff?text=Microservices+Architecture" alt="Microservices Architecture" style="width: 100%; border-radius: 10px;"/>
+
+**Technologies:** Docker, Kubernetes, Node.js, Express, PostgreSQL, Redis, Apache Kafka
+
+Scalable microservices architecture demonstrating containerization, orchestration, and inter-service communication. Implements event-driven architecture with message queues and distributed caching.
+
+**Key Features:**
+- Docker containerization for all services
+- Kubernetes orchestration and deployment
+- Event-driven communication with Kafka
+- Redis caching for performance optimization
+- API Gateway for service routing
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/abhi12-hue/your-microservices-repo)
+[![Documentation](https://img.shields.io/badge/Documentation-Read-blue?style=flat-square&logo=gitbook)](https://your-microservices-docs.com)
+
+</td>
+<td width="50%">
+
+### Task Management System
+<img src="https://via.placeholder.com/400x200/0d1117/ffa116?text=Task+Management+System" alt="Task Management System" style="width: 100%; border-radius: 10px;"/>
+
+**Technologies:** React, Redux, Node.js, Express, MongoDB, WebSocket
+
+Collaborative task management application with real-time updates, project organization, and team collaboration features. Includes drag-and-drop functionality and progress tracking.
+
+**Key Features:**
+- Drag-and-drop task organization
+- Real-time collaboration with WebSocket
+- Project and team management
+- Progress tracking and analytics
+- Responsive design with dark/light themes
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/abhi12-hue/your-task-repo)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=flat-square&logo=netlify)](https://your-task-app.netlify.app)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### Video Streaming Platform
+<img src="https://via.placeholder.com/400x200/0d1117/e4405f?text=Video+Streaming+Platform" alt="Video Streaming Platform" style="width: 100%; border-radius: 10px;"/>
+
+**Technologies:** React, WebRTC, Node.js, Socket.io, FFmpeg, AWS S3
+
+Video streaming and conferencing platform with real-time video calling, screen sharing, and recording capabilities. Implements WebRTC for peer-to-peer communication.
+
+**Key Features:**
+- Real-time video calling with WebRTC
+- Screen sharing and recording
+- Chat integration during video calls
+- Video file upload and streaming
+- Responsive design for mobile devices
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/abhi12-hue/your-video-repo)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=flat-square&logo=heroku)](https://your-video-app.herokuapp.com)
+
+</td>
+<td width="50%">
+
+### DevOps CI/CD Pipeline
+<img src="https://via.placeholder.com/400x200/0d1117/28a745?text=DevOps+CI%2FCD+Pipeline" alt="DevOps CI/CD Pipeline" style="width: 100%; border-radius: 10px;"/>
+
+**Technologies:** Docker, Kubernetes, GitHub Actions, Jenkins, Terraform, AWS
+
+Automated CI/CD pipeline showcasing infrastructure as code, automated testing, deployment strategies, and monitoring. Implements best practices for DevOps workflows.
+
+**Key Features:**
+- Automated testing and deployment
+- Infrastructure as Code with Terraform
+- Container orchestration with Kubernetes
+- Monitoring and logging integration
+- Multi-environment deployment strategies
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/abhi12-hue/your-devops-repo)
+[![Documentation](https://img.shields.io/badge/Documentation-Read-blue?style=flat-square&logo=gitbook)](https://your-devops-docs.com)
+
+</td>
+</tr>
+</table>
+
+### Additional Projects
+- **API Rate Limiter** - Redis-based rate limiting middleware for Express.js applications
+- **Data Visualization Dashboard** - Interactive charts and analytics using D3.js and React
+- **Authentication Service** - JWT-based authentication microservice with role-based access control
+- **File Storage Service** - Scalable file upload and storage solution with AWS S3 integration
 
 ---
 
