@@ -2,8 +2,7 @@
 
 ## Full Stack Developer & DevOps Engineer
 
-Professional software developer with expertise in modern web technologies and cloud infrastructure. Experienced in building scalable applications and implementing robust DevOps practices.
-
+Professional software developer skilled in modern web technologies and cloud infrastructure. Proficient in building scalable applications and applying effective DevOps practices.
 ### About Me
 
 * Currently working on full-stack web applications and cloud infrastructure solutions
