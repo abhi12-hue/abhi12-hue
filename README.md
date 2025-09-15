@@ -14,7 +14,7 @@ Professional software developer skilled in modern web technologies and cloud inf
 
 <div align="center">
 
-### 🛠️ Skills
+
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" style="margin:0 40px;"/>
