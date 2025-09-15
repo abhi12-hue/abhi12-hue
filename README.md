@@ -3,9 +3,6 @@
 ## Full Stack Developer & DevOps Engineer
 
 Professional software developer skilled in modern web technologies and cloud infrastructure. Proficient in building scalable applications and applying effective DevOps practices.
-
----
-
 ### About Me
 
 * Currently working on full-stack web applications and cloud infrastructure solutions
@@ -13,33 +10,44 @@ Professional software developer skilled in modern web technologies and cloud inf
 * Looking to collaborate on open source projects and innovative web solutions
 * Passionate about solving algorithmic challenges and optimizing system performance
 
----
+## 🛠️ Technical Expertise
 
-## Technical Expertise
+<div align="center">
 
-### Frontend Development
 
-HTML5, CSS3, JavaScript, TypeScript, React.js, Next.js, Redux, Tailwind CSS, Material UI, Bootstrap
 
-### Backend Development
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" style="margin:0 40px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" style="margin:0 40px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" style="margin:0 40px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" style="margin:0 40px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" style="margin:0 40px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" style="margin:0 40px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="Redux" style="margin:0 40px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS" style="margin:0 40px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="Material UI" style="margin:0 40px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" style="margin:0 40px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" style="margin:0 40px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js" style="margin:0 40px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="Socket.io" style="margin:0 40px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" style="margin:0 40px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" style="margin:0 40px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" style="margin:0 40px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" style="margin:0 40px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" style="margin:0 40px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="Redis" style="margin:0 40px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="40" alt="Prisma" style="margin:0 40px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" style="margin:0 40px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" style="margin:0 40px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS" style="margin:0 40px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="Nginx" style="margin:0 40px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="Apache" style="margin:0 40px;"/>
+</p>
 
-Node.js, Express.js, Socket.io, RESTful APIs, GraphQL
+</div>
+## 🏆 GitHub Achievements & Stats
 
-### Programming & Algorithms
-
-C, C++, Python, Data Structures, Algorithms, Competitive Programming
-
-### Databases & ORM
-
-PostgreSQL, MongoDB, Redis, Prisma
-
-### DevOps & Cloud
-
-Docker, Kubernetes, AWS, Nginx, Apache, CI/CD with GitHub Actions & Jenkins, Terraform for IaC
-
----
-
-## GitHub Achievements & Stats
+<div align="center">
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=abhi12-hue\&theme=darkhub\&no-frame=true\&margin-w=5\&margin-h=5)
 
@@ -49,69 +57,40 @@ Docker, Kubernetes, AWS, Nginx, Apache, CI/CD with GitHub Actions & Jenkins, Ter
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi12-hue&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top Languages" />
 
----
+</div>
 
-## LeetCode Profile & Achievements
-
-**Profile:** [Abhi\_bhai-01](https://leetcode.com/u/Abhi_bhai-01/)
-
-**LeetCode Stats:**
+## 🧑‍💻 LeetCode Profile
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/Abhi_bhai-01?theme=dark&font=source_code_pro&ext=contest" alt="LeetCode Stats" />
 </div>
 
-**Achievements:**
+**Profile:** [Abhi\_bhai-01](https://leetcode.com/u/Abhi_bhai-01/)
 
-* Problems Solved: Fetch dynamically from LeetCode API or display contest rating
-* Contest Rating: Fetch dynamically or show current rating
-* Strong in Dynamic Programming, Graphs, Trees, Arrays & Strings
+**Focus Areas:** Data Structures, Algorithms, Problem Solving, Competitive Programming
 
----
+* Regular practice in algorithmic challenges and data structures
+* Continuous improvement in competitive programming
+* Strong foundation in Arrays, Strings, Dynamic Programming, Trees, and Graph algorithms
 
-## GitHub Activity
+## 📊 GitHub Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhi12-hue&theme=github-compact&hide_border=true&bg_color=0d1117&color=79c0ff&line=58a6ff&point=f85149" alt="Activity Graph" />
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhi12-hue&theme=github-compact&hide_border=true&bg_color=0d1117&color=79c0ff&line=58a6ff&point=f85149" alt="Activity Graph" />
+</div>
 
----
+## 🌍 Professional Connections
 
-## Professional Connections
+<div align="center">
 
-[GitHub](https://github.com/abhi12-hue) | [LeetCode](https://leetcode.com/u/Abhi_bhai-01/) | [Instagram](https://instagram.com/abhishek_bisht213)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/abhi12-hue)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=white)](https://leetcode.com/u/Abhi_bhai-01/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/abhishek_bisht213)
 
----
+</div>
 
-## Professional Summary
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=abhi12-hue&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
 
-Full Stack Developer & DevOps Engineer specializing in modern web technologies and cloud infrastructure. Proven experience in building scalable applications using React, Node.js, and containerization technologies. Strong commitment to clean code, system architecture, and continuous professional development.
-
-### Core Competencies
-
-**Full Stack Development:**
-
-* End-to-end web application development
-* RESTful API & GraphQL design
-* Real-time communication systems (WebRTC, WebSockets)
-
-**DevOps & Infrastructure:**
-
-* Docker & Kubernetes for orchestration
-* CI/CD pipelines with GitHub Actions & Jenkins
-* Terraform for Infrastructure as Code (IaC)
-* Database optimization with PostgreSQL, MongoDB, Redis
-
-**Problem Solving:**
-
-* Strong algorithmic thinking & DSA
-* System design & scalable architecture
-* Performance optimization techniques
-
-**Collaboration & Tools:**
-
-* Git/GitHub for version control
-* API documentation with Postman & Swagger
-* Agile methodologies for teamwork
-
----
-
-Profile Views: <img src="https://komarev.com/ghpvc/?username=abhi12-hue&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+<div align="center" 
