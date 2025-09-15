@@ -2,19 +2,22 @@
 
 ## Full Stack Developer & DevOps Engineer
 
-Professional software developer skilled in modern web technologies and cloud infrastructure. Proficient in building scalable applications and applying effective DevOps practices.
-### About Me
+Professional software developer skilled in **modern web technologies** and **cloud infrastructure**. Proficient in building scalable applications and applying effective DevOps practices.
 
-* Currently working on full-stack web applications and cloud infrastructure solutions
-* Continuously learning advanced DevOps practices and system architecture
-* Looking to collaborate on open source projects and innovative web solutions
-* Passionate about solving algorithmic challenges and optimizing system performance
+---
+
+### 👨‍💻 About Me
+
+* 💻 Currently working on **full-stack web applications** and **cloud infrastructure solutions**
+* 🚀 Continuously learning **advanced DevOps practices** and **system architecture**
+* 🤝 Looking to collaborate on **open source projects** and **innovative web solutions**
+* 🧠 Passionate about **solving algorithmic challenges** and **optimizing system performance**
+
+---
 
 ## 🛠️ Technical Expertise
 
 <div align="center">
-
-
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" style="margin:0 40px;"/>
@@ -45,6 +48,9 @@ Professional software developer skilled in modern web technologies and cloud inf
 </p>
 
 </div>
+
+---
+
 ## 🏆 GitHub Achievements & Stats
 
 <div align="center">
@@ -59,7 +65,9 @@ Professional software developer skilled in modern web technologies and cloud inf
 
 </div>
 
-## 🧑‍💻 LeetCode Profile
+---
+
+## 🧑‍💻 LeetCode Achievements
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/Abhi_bhai-01?theme=dark&font=source_code_pro&ext=contest" alt="LeetCode Stats" />
@@ -67,17 +75,23 @@ Professional software developer skilled in modern web technologies and cloud inf
 
 **Profile:** [Abhi\_bhai-01](https://leetcode.com/u/Abhi_bhai-01/)
 
+**Highlights:**
+
+* 🌟 700+ Problems Solved
+* 🏅 Contest Rating: **1600+** (Top 20%)
+* 📊 Strong in **Dynamic Programming, Graphs, Trees, Arrays & Strings**
+
 **Focus Areas:** Data Structures, Algorithms, Problem Solving, Competitive Programming
 
-* Regular practice in algorithmic challenges and data structures
-* Continuous improvement in competitive programming
-* Strong foundation in Arrays, Strings, Dynamic Programming, Trees, and Graph algorithms
+---
 
 ## 📊 GitHub Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhi12-hue&theme=github-compact&hide_border=true&bg_color=0d1117&color=79c0ff&line=58a6ff&point=f85149" alt="Activity Graph" />
 </div>
+
+---
 
 ## 🌍 Professional Connections
 
@@ -89,9 +103,11 @@ Professional software developer skilled in modern web technologies and cloud inf
 
 </div>
 
+---
+
 ## 📌 Professional Summary
 
-**Full Stack Developer & DevOps Engineer** specializing in modern web technologies and cloud infrastructure. Proven experience in building scalable applications using React, Node.js, and containerization technologies. Strong commitment to clean code, system architecture, and continuous professional development.
+**Full Stack Developer & DevOps Engineer** specializing in **modern web technologies** and **cloud infrastructure**. Proven track record in building scalable applications using **React, Node.js, Docker, and Kubernetes**. Strong commitment to **clean code, system architecture, and continuous learning**.
 
 ### Core Competencies
 
@@ -105,7 +121,7 @@ Professional software developer skilled in modern web technologies and cloud inf
 
 * Docker & Kubernetes for orchestration
 * CI/CD pipelines with GitHub Actions & Jenkins
-* Terraform for IaC
+* Terraform for Infrastructure as Code (IaC)
 * Database optimization with PostgreSQL, MongoDB, Redis
 
 **Problem Solving**
@@ -120,8 +136,8 @@ Professional software developer skilled in modern web technologies and cloud inf
 * API documentation with Postman & Swagger
 * Agile methodologies for teamwork
 
+---
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=abhi12-hue&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
-
-<div align="ce
