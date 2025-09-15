@@ -1,10 +1,12 @@
 # Abhishek Bisht
 
-## Full Stack Developer & DevOps Engineer
+## 🚀 Full Stack Developer & DevOps Engineer
 
 Professional software developer with expertise in modern web technologies and cloud infrastructure. Experienced in building scalable applications and implementing robust DevOps practices.
 
-### About Me
+---
+
+## 👨‍💻 About Me
 
 * Currently working on full-stack web applications and cloud infrastructure solutions
 * Continuously learning advanced DevOps practices and system architecture
@@ -13,94 +15,119 @@ Professional software developer with expertise in modern web technologies and cl
 
 ---
 
-## Technical Expertise
+## 🛠️ Technical Skills
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
 ### Frontend Development
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="35" alt="Redux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="35" alt="Tailwind CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="35" alt="Material UI" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35" alt="Bootstrap" />
-</div>
-
-### Backend Development
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="35" alt="Express.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="35" alt="NestJS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="35" alt="Socket.io" />
-</div>
-
-### Programming Languages
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35" alt="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="Python" />
-</div>
-
-</td>
-<td width="50%">
-
-### Databases & Storage
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="35" alt="Redis" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="35" alt="Prisma" />
-</div>
-
-### DevOps & Infrastructure
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="35" alt="Kubernetes" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="35" alt="Terraform" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="35" alt="AWS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="35" alt="Nginx" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="35" alt="Apache" />
-</div>
-
-### Development Tools
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="35" alt="GitLab" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="35" alt="Postman" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="VS Code" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" alt="Linux" />
-</div>
-
-### Additional Technologies
-
-* **Microservices** - Distributed systems with API Gateway
-* **GraphQL** - API development
-* **Next.js** - Full-stack React Framework
-* **FFmpeg** - Media processing for video platforms
-* **Kafka & RabbitMQ** - Event-driven architecture
-
-</td>
-</tr>
-</table>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge\&logo=redux\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+![MaterialUI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge\&logo=mui\&logoColor=white)
 
 ---
 
-## GitHub Achievements & Stats
+### Backend Development
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge\&logo=nestjs\&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge\&logo=socket.io\&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge\&logo=webrtc\&logoColor=white)
+
+---
+
+### Databases & Storage
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
+
+---
+
+### DevOps & Infrastructure
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge\&logo=terraform\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge\&logo=jenkins\&logoColor=white)
+
+---
+
+### Tools & Others
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge\&logo=swagger\&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+
+</div>
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 Real-Time Chat Application
+
+![Chat App Screenshot](https://raw.githubusercontent.com/abhi12-hue/Chat-App/main/preview.png)
+**Tech Stack:** React, Node.js, Socket.io, MongoDB, JWT
+
+* Real-time messaging
+* Authentication & authorization
+* File sharing
+* Room-based chats
+
+🔗 [GitHub Repo](https://github.com/abhi12-hue/Chat-App)
+
+---
+
+### 🔹 E-Commerce Platform
+
+![E-Commerce Screenshot](https://raw.githubusercontent.com/abhi12-hue/E-commerce/main/preview.png)
+**Tech Stack:** React, TypeScript, Node.js, Express, Prisma, PostgreSQL, Stripe
+
+* Product catalog
+* Shopping cart & payments
+* Admin dashboard
+
+🔗 [GitHub Repo](https://github.com/abhi12-hue/E-commerce)
+
+---
+
+### 🔹 Video Streaming Platform
+
+![Video Platform Screenshot](https://raw.githubusercontent.com/abhi12-hue/Video-Stream/main/preview.png)
+**Tech Stack:** React, WebRTC, Node.js, FFmpeg, AWS S3
+
+* Real-time video calling
+* Screen sharing & recording
+* Video upload & streaming
+
+🔗 [GitHub Repo](https://github.com/abhi12-hue/Video-Stream)
+
+---
+
+### 🔹 DevOps CI/CD Pipeline
+
+![DevOps Screenshot](https://raw.githubusercontent.com/abhi12-hue/DevOps-CI-CD/main/preview.png)
+**Tech Stack:** Docker, Kubernetes, GitHub Actions, Jenkins, Terraform, AWS
+
+* Automated deployment
+* Infrastructure as Code
+* Kubernetes orchestration
+
+🔗 [GitHub Repo](https://github.com/abhi12-hue/DevOps-CI-CD)
+
+---
+
+## 🏆 GitHub Achievements & Stats
 
 <div align="center">
 
@@ -116,7 +143,7 @@ Professional software developer with expertise in modern web technologies and cl
 
 ---
 
-## LeetCode Profile
+## 🏹 LeetCode Profile
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/Abhi_bhai-01?theme=dark&font=source_code_pro&ext=contest" alt="LeetCode Stats" />
@@ -124,133 +151,9 @@ Professional software developer with expertise in modern web technologies and cl
 
 **Profile:** [Abhi\_bhai-01](https://leetcode.com/u/Abhi_bhai-01/)
 
-**Focus Areas:** Data Structures, Algorithms, Problem Solving, Competitive Programming
-
-* Regular practice in algorithmic challenges and data structures
-* Continuous improvement in competitive programming
-* Strong foundation in Arrays, Strings, Dynamic Programming, Trees, and Graph algorithms
-
 ---
 
-## Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔹 Real-Time Chat Application
-
-**Tech Stack:** React, Node.js, Socket.io, MongoDB, JWT
-
-* Real-time messaging with Socket.io
-* User authentication & authorization
-* File upload & sharing
-* Room-based chat functionality
-* Responsive design
-
-🔗 [GitHub Repo](https://github.com/abhi12-hue/Chat-App)
-
-</td>
-<td width="50%">
-
-### 🔹 E-Commerce Platform
-
-**Tech Stack:** React, TypeScript, Node.js, Express, Prisma, PostgreSQL, Stripe
-
-* Product catalog with search & filter
-* Shopping cart & checkout system
-* Stripe payment integration
-* Admin dashboard for inventory
-* Order tracking & user profiles
-
-🔗 [GitHub Repo](https://github.com/abhi12-hue/E-commerce)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🔹 Microservices Architecture
-
-**Tech Stack:** Docker, Kubernetes, Node.js, PostgreSQL, Redis, Kafka
-
-* Dockerized services
-* Kubernetes orchestration
-* Kafka for event-driven communication
-* Redis caching for optimization
-* API Gateway for routing
-
-🔗 [GitHub Repo](https://github.com/abhi12-hue/Microservices-Arch)
-
-</td>
-<td width="50%">
-
-### 🔹 Task Management System
-
-**Tech Stack:** React, Redux, Node.js, Express, MongoDB, WebSocket
-
-* Drag-and-drop task organization
-* Real-time updates with WebSocket
-* Team & project management
-* Progress tracking with analytics
-* Dark/light theme support
-
-🔗 [GitHub Repo](https://github.com/abhi12-hue/Task-Manager)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🔹 Video Streaming Platform
-
-**Tech Stack:** React, WebRTC, Node.js, FFmpeg, AWS S3
-
-* Real-time video calling
-* Screen sharing & recording
-* Chat integration
-* Video upload & streaming
-* Mobile responsive design
-
-🔗 [GitHub Repo](https://github.com/abhi12-hue/Video-Stream)
-
-</td>
-<td width="50%">
-
-### 🔹 DevOps CI/CD Pipeline
-
-**Tech Stack:** Docker, Kubernetes, GitHub Actions, Jenkins, Terraform, AWS
-
-* Automated testing & deployment
-* IaC with Terraform
-* Kubernetes orchestration
-* Monitoring & logging integration
-* Multi-environment deployments
-
-🔗 [GitHub Repo](https://github.com/abhi12-hue/DevOps-CI-CD)
-
-</td>
-</tr>
-</table>
-
-### Additional Projects
-
-* **API Rate Limiter** - Redis-based middleware for Express.js
-* **Data Visualization Dashboard** - Interactive charts with D3.js & React
-* **Authentication Service** - JWT-based microservice with RBAC
-* **File Storage Service** - AWS S3 integration for scalable storage
-
----
-
-## GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhi12-hue&theme=github-compact&hide_border=true&bg_color=0d1117&color=79c0ff&line=58a6ff&point=f85149" alt="Activity Graph" />
-</div>
-
----
-
-## Professional Connections
+## 🌐 Connect With Me
 
 <div align="center">
 
@@ -259,39 +162,6 @@ Professional software developer with expertise in modern web technologies and cl
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/abhishek_bisht213)
 
 </div>
-
----
-
-## Professional Summary
-
-**Full Stack Developer & DevOps Engineer** specializing in modern web technologies and cloud infrastructure. Proven experience in building scalable applications using React, Node.js, and containerization technologies. Strong commitment to clean code, system architecture, and continuous professional development.
-
-### Core Competencies
-
-**Full Stack Development**
-
-* End-to-end web application development with modern frameworks
-* RESTful API & GraphQL design
-* Real-time communication systems (WebRTC, WebSockets)
-
-**DevOps & Infrastructure**
-
-* Docker & Kubernetes for orchestration
-* CI/CD pipelines with GitHub Actions & Jenkins
-* Terraform for IaC
-* Database optimization with PostgreSQL, MongoDB, Redis
-
-**Problem Solving**
-
-* Strong algorithmic thinking & DSA
-* System design & scalable architecture
-* Performance optimization techniques
-
-**Collaboration & Tools**
-
-* Git/GitHub for version control
-* API documentation with Postman & Swagger
-* Agile methodologies for teamwork
 
 ---
 
